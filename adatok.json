@@ -1,0 +1,16 @@
+{
+    "termekLISTA": [
+        {
+            "nev": "cipő",
+            "szín": "fehér"
+        },
+        {
+            "nev": "kipő",
+            "szín": "fekete"
+        },
+        {
+            "nev": "nipő",
+            "szín": "zöld"
+        }
+    ]
+}
